@@ -1,0 +1,38 @@
+
+body{
+    margin: 10;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+#menu ul{
+    margin: 0;
+    background-color: #3385ff;
+    list-style: none;
+
+}
+
+#menu ul li{
+    display: inline;
+
+}
+
+#menu ul li a{
+    padding: 10px 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+
+#menu ul li a:hover{
+    color:#004d00
+}
+
+#mydiv{
+    padding-top: 40px;
+    margin: 0;
+
+}
